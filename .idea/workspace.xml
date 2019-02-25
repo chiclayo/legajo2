@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84720d6f-7e02-41ae-82b0-65ee3f8c5650" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-    </list>
+    <list default="true" id="84720d6f-7e02-41ae-82b0-65ee3f8c5650" name="Default Changelist" comment="" />
+    <ignored path="C:\xampp\htdocs\legajo2\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +70,7 @@
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/70ada7dd-a7ed-4ad1-b6b0-460505e688fd/console.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -111,6 +109,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -251,7 +250,7 @@
       <workItem from="1550771665949" duration="2717000" />
       <workItem from="1550842687937" duration="9023000" />
       <workItem from="1550853194550" duration="14957000" />
-      <workItem from="1551110512003" duration="1752000" />
+      <workItem from="1551110512003" duration="2039000" />
     </task>
     <task id="LOCAL-00001" summary="jnnn">
       <created>1550771871966</created>
@@ -344,11 +343,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551111300889</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="qwwqjhxxx">
+      <created>1551112279104</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1551112279104</updated>
+    </task>
+    <task id="LOCAL-00015" summary="qwwqjhxxx">
+      <created>1551112310002</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1551112310002</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38249000" />
+    <option name="totallyTimeSpent" value="38536000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -366,6 +379,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Console" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -375,9 +389,9 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4969743" visible="true" weight="0.33551556" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.49621785" visible="true" weight="0.33551556" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5030257" side_tool="true" weight="0.33551556" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50378215" side_tool="true" visible="true" weight="0.33551556" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -551,7 +565,7 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/70ada7dd-a7ed-4ad1-b6b0-460505e688fd/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
